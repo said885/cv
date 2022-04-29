@@ -1,0 +1,12 @@
+nav ul {
+    display: flex;
+    flex-direction:row;
+    background-color: gray;
+} 
+nav ul li {
+    padding: 5px 5%;
+    list-style: none;
+}
+div {
+    display: table-row;
+}
